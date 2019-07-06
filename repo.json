@@ -1,0 +1,15 @@
+{
+  "packages": [
+    {
+      "category": "game", 
+      "updated": "07/06/2019", 
+      "name": "ctgpu", 
+      "license": "Creative Commons", 
+      "author": "Lloyd Nabbit", 
+      "description": "A Mario Kart 8 Custom Track Distrubution", 
+      "title": "CTGP Universe", 
+      "version": "Epsilon", 
+      "filesize": 10800, 
+    }
+  ]
+}
