@@ -1,11 +1,14 @@
 {
   "packages": [
     {
+	  "category": "game",
       "name": "ctgpu",
       "title": "CTGP-Universe",
       "author": "Lloyd Nabbit",
       "description": "A Mario Kart 8 Custom Track Distrubution",
+      "extracted": 19219,
       "version": "Epsilon"
+      "filesize": 5237,
     }
   ]
 }
