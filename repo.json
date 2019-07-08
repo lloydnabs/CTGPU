@@ -1,21 +1,21 @@
 {
-  "packages": [
-    {
-	  "category": "game",
-      "updated": "07/07/2019",
-      "name": "ctgpu",
-      "license": "CC", 
-      "title": "CTGP-Universe",
-      "author": "Lloyd Nabbit",
-      "url": "https://github.com/lloydnabs/CTGPU", 
-      "description": "A Mario Kart 8 Custom Track Distrubution",
-      "changelog": "n/a", 
-      "extracted": 19219,
-      "version": "Epsilon",
-      "filesize": 5237,
-      "details": "Downloads CTGP-U onto your sd", 
-      "app_dls": 0, 
-      "md5": "n/a"
-    }
-  ]
+    "packages": [
+        {
+            "category": "game", 
+            "binary": "none", 
+            "updated": "07/07/2019", 
+            "name": "ctgpu", 
+            "license": "CC", 
+            "title": "CTGP Universe", 
+            "url": "https://github.com/lloydnabs/CTGPU", 
+            "description": "A Mario Kart 8 Custom Track Distrubution.", 
+            "author": "Lloyd Nabbit", 
+            "changelog": "n/a", 
+            "extracted": 18746, 
+            "version": "Epsilon", 
+            "filesize": 11047, 
+            "details": "n/a", 
+            "md5": "1f48cc57afcb1ca9e96c90e07095ec06"
+        }
+    ]
 }
