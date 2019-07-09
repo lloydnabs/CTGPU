@@ -4,18 +4,18 @@
             "category": "game", 
             "binary": "none", 
             "updated": "07/07/2019", 
-            "name": "sdcafiine", 
+            "name": "ctgpu", 
             "license": "CC", 
             "title": "CTGP Universe", 
             "url": "https://github.com/lloydnabs/CTGPU", 
             "description": "A Mario Kart 8 Custom Track Distrubution.", 
             "author": "Lloyd Nabbit", 
             "changelog": "n/a", 
-            "extracted": 18746, 
+            "extracted": 20733, 
             "version": "Epsilon", 
-            "filesize": 11047, 
+            "filesize": 8976, 
             "details": "n/a", 
-            "md5": "7dd742304690cef07385d0d470519848"
+            "md5": "d36a8bf855c58fcc80a001eb794d82fb"
         }
     ]
 }
