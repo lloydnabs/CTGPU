@@ -21,6 +21,23 @@
             "category": "skin", 
             "binary": "none", 
             "updated": "13/07/2019", 
+            "name": "isabelletds", 
+            "license": "CC", 
+            "title": "Isabelle Toy Day Sweater", 
+            "url": "https://gamebanana.com/skins/167550", 
+            "description": "A simple recolor of Isabelle/Shizue's sweater to be more festive with some presents on it from the Badge Arcade for some added detail.", 
+            "author": "Sven Cakemann", 
+            "changelog": "n/a", 
+            "extracted": 2522, 
+            "version": "1.0", 
+            "filesize": 2181, 
+            "details": "n/a", 
+            "md5": "949fc1d7ff626c609b8e309c459094e4"
+        }, 
+        {
+            "category": "skin", 
+            "binary": "none", 
+            "updated": "13/07/2019", 
             "name": "kamek", 
             "license": "CC", 
             "title": "Kamek over Larry", 
@@ -47,9 +64,9 @@
             "changelog": "n/a", 
             "extracted": 1668, 
             "version": "1.0", 
-            "filesize": 1454, 
+            "filesize": 1444, 
             "details": "n/a", 
-            "md5": "8007ddd1c7ef3d7e69eb0fe9c50dac6b"
+            "md5": "b6df11aeb9fb3adbda5a1a10d85f1622"
         }
     ]
 }
