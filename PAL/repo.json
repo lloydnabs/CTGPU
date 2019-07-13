@@ -13,9 +13,9 @@
             "changelog": "n/a", 
             "extracted": 20728, 
             "version": "Epsilon", 
-            "filesize": 8976, 
+            "filesize": 8871, 
             "details": "n/a", 
-            "md5": "8cb0631d6acbff05bc7d77dc3ba187aa"
+            "md5": "352fc87c58fb41a159ed65e9ac01738b"
         }, 
         {
             "category": "skin", 
@@ -30,9 +30,26 @@
             "changelog": "n/a", 
             "extracted": 1350, 
             "version": "1.5", 
-            "filesize": 1131, 
+            "filesize": 1123, 
             "details": "n/a", 
-            "md5": "4c603295cb34b9c296a35d1599cfcce1"
+            "md5": "3493fb75c444111b8dab3e04fda90c13"
+        }, 
+        {
+            "category": "skin", 
+            "binary": "none", 
+            "updated": "13/07/2019", 
+            "name": "monita", 
+            "license": "CC", 
+            "title": "Monita over Cat Peach", 
+            "url": "https://gamebanana.com/skins/170619", 
+            "description": "Anticipating victory! That's right, Monita from Nintendo Land has joined the races! Thanks to KillzXGaming and AboodXD for tools and the MK8 Discord for inspiring the mod.", 
+            "author": "Sven Cakemann", 
+            "changelog": "n/a", 
+            "extracted": 1668, 
+            "version": "1.0", 
+            "filesize": 1454, 
+            "details": "n/a", 
+            "md5": "8007ddd1c7ef3d7e69eb0fe9c50dac6b"
         }
     ]
 }
