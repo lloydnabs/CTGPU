@@ -30,9 +30,9 @@
             "changelog": "n/a", 
             "extracted": 2522, 
             "version": "1.0", 
-            "filesize": 2181, 
+            "filesize": 2174, 
             "details": "n/a", 
-            "md5": "949fc1d7ff626c609b8e309c459094e4"
+            "md5": "6876006f96fe901c077c692415eb51a1"
         }, 
         {
             "category": "skin", 
@@ -67,6 +67,40 @@
             "filesize": 1444, 
             "details": "n/a", 
             "md5": "b6df11aeb9fb3adbda5a1a10d85f1622"
+        }, 
+        {
+            "category": "skin", 
+            "binary": "none", 
+            "updated": "13/07/2019", 
+            "name": "mummyme", 
+            "license": "CC", 
+            "title": "Mummy Me over Toadette", 
+            "url": "https://gamebanana.com/skins/166589", 
+            "description": "A quick and dirty skin for Toadette in time for Halloween.", 
+            "author": "Sven Cakemann", 
+            "changelog": "n/a", 
+            "extracted": 1627, 
+            "version": "3.0", 
+            "filesize": 1446, 
+            "details": "n/a", 
+            "md5": "1e8e73febc36982d43d5bf5ce438567c"
+        }, 
+        {
+            "category": "music", 
+            "binary": "none", 
+            "updated": "13/07/2019", 
+            "name": "skybridgeddd", 
+            "license": "CC", 
+            "title": "The Sky Bridge (Shantae HGH) for Dry Dry Desert", 
+            "url": "https://gamebanana.com/sounds/36695", 
+            "description": "A song from one of my more recent favorite platforming franchises, Shantae: Half-Genie Hero. The final lap version of the track jumps straight into the main part of the piece now, so hopefully it's more exciting than the first release for those few that downloaded it when I uploaded it originally. Enjoy! Thanks to Atlas for the FLAP music tool and WayForward and Jake Kaufman for original music ownership.", 
+            "author": "Sven Cakemann", 
+            "changelog": "n/a", 
+            "extracted": 9703, 
+            "version": "2.0", 
+            "filesize": 9326, 
+            "details": "n/a", 
+            "md5": "a45ace9f4d49c187b894dc053b8d1a1c"
         }
     ]
 }
