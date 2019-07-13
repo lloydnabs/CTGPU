@@ -15,7 +15,24 @@
             "version": "Epsilon", 
             "filesize": 8976, 
             "details": "n/a", 
-            "md5": "f3aba74fc388b88b2dae1c44a8e91303"
+            "md5": "8cb0631d6acbff05bc7d77dc3ba187aa"
+        }, 
+        {
+            "category": "skin", 
+            "binary": "none", 
+            "updated": "13/07/2019", 
+            "name": "kamek", 
+            "license": "CC", 
+            "title": "Kamek over Larry", 
+            "url": "https://gamebanana.com/skins/170612", 
+            "description": "The babysnatcher hits the track! Special thanks to KillzXGaming and AboodXD for their tools.", 
+            "author": "Sven Cakemann", 
+            "changelog": "n/a", 
+            "extracted": 1350, 
+            "version": "1.5", 
+            "filesize": 1131, 
+            "details": "n/a", 
+            "md5": "4c603295cb34b9c296a35d1599cfcce1"
         }
     ]
 }

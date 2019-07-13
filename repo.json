@@ -13,9 +13,9 @@
             "changelog": "n/a", 
             "extracted": 1, 
             "version": "1.0", 
-            "filesize": 0, 
+            "filesize": 1, 
             "details": "n/a", 
-            "md5": "0ad8563043e31c1c24170166e0478756"
+            "md5": "8e58b3d5ee5c6ad7b5edab34dc49d70d"
         }, 
         {
             "category": "_all", 
@@ -30,9 +30,9 @@
             "changelog": "n/a", 
             "extracted": 2, 
             "version": "1.0", 
-            "filesize": 0, 
+            "filesize": 1, 
             "details": "n/a", 
-            "md5": "c5a6f36a373ca0f8c3fc5fc082ea9a7a"
+            "md5": "96e3d0a9fc1936b083d19ee0e9299341"
         }
     ]
 }
