@@ -1,0 +1,38 @@
+{
+    "packages": [
+        {
+            "category": "_all", 
+            "binary": "none", 
+            "updated": "13/07/2019", 
+            "name": "pal", 
+            "license": "GPLv3", 
+            "title": "PAL Mods", 
+            "url": "https://github.com/lloydnabs/mk8store", 
+            "description": "Download this if you have a European Wii U. Reboot once installed", 
+            "author": "Lloyd Nabbit", 
+            "changelog": "n/a", 
+            "extracted": 1, 
+            "version": "1.0", 
+            "filesize": 0, 
+            "details": "n/a", 
+            "md5": "0ad8563043e31c1c24170166e0478756"
+        }, 
+        {
+            "category": "_all", 
+            "binary": "none", 
+            "updated": "13/07/2019", 
+            "name": "usa", 
+            "license": "GPLv3", 
+            "title": "USA Mods", 
+            "url": "https://github.com/lloydnabs/mk8store", 
+            "description": "Download this if you have an American Wii U. Reboot once installed", 
+            "author": "Lloyd Nabbit", 
+            "changelog": "n/a", 
+            "extracted": 2, 
+            "version": "1.0", 
+            "filesize": 0, 
+            "details": "n/a", 
+            "md5": "c5a6f36a373ca0f8c3fc5fc082ea9a7a"
+        }
+    ]
+}
