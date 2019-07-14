@@ -1,6 +1,142 @@
 {
     "packages": [
         {
+            "category": "kart", 
+            "binary": "none", 
+            "updated": "14/07/2019", 
+            "name": "bgamtires", 
+            "license": "CC", 
+            "title": "Gold Tire Amethyst", 
+            "url": "https://gamebanana.com/skins/168534", 
+            "description": "A texture for the Gold Tires.", 
+            "author": "BluGoku", 
+            "changelog": "n/a", 
+            "extracted": 525, 
+            "version": "1.0", 
+            "filesize": 457, 
+            "details": "n/a", 
+            "md5": "99e9e7b73144ecd9ffae167636a52874"
+        }, 
+        {
+            "category": "kart", 
+            "binary": "none", 
+            "updated": "14/07/2019", 
+            "name": "bgdmtires", 
+            "license": "CC", 
+            "title": "Gold Tire Diamond", 
+            "url": "https://gamebanana.com/skins/168534", 
+            "description": "A texture for the Gold Tires.", 
+            "author": "BluGoku", 
+            "changelog": "n/a", 
+            "extracted": 526, 
+            "version": "1.0", 
+            "filesize": 458, 
+            "details": "n/a", 
+            "md5": "853671358af6444c5c757c50285de30e"
+        }, 
+        {
+            "category": "kart", 
+            "binary": "none", 
+            "updated": "14/07/2019", 
+            "name": "bgemtires", 
+            "license": "CC", 
+            "title": "Gold Tire Emerald", 
+            "url": "https://gamebanana.com/skins/168534", 
+            "description": "A texture for the Gold Tires.", 
+            "author": "BluGoku", 
+            "changelog": "n/a", 
+            "extracted": 525, 
+            "version": "1.0", 
+            "filesize": 456, 
+            "details": "n/a", 
+            "md5": "55f83d25215320500f870e7641047666"
+        }, 
+        {
+            "category": "track", 
+            "binary": "none", 
+            "updated": "14/07/2019", 
+            "name": "bggbaac", 
+            "license": "CC", 
+            "title": "GBA Autumnal Circuit", 
+            "url": "https://gamebanana.com/maps/204005", 
+            "description": "This mod turns GBA Mario Circuit to look like if it took place in fall/autumn.", 
+            "author": "BluGoku", 
+            "changelog": "n/a", 
+            "extracted": 65428, 
+            "version": "1.0", 
+            "filesize": 46431, 
+            "details": "n/a", 
+            "md5": "c1f01cccba51dfe58c35ec707cc85590"
+        }, 
+        {
+            "category": "track", 
+            "binary": "none", 
+            "updated": "14/07/2019", 
+            "name": "bggbaoc", 
+            "license": "CC", 
+            "title": "GBA Outback Circuit", 
+            "url": "https://gamebanana.com/maps/204006", 
+            "description": "Here's another course texture for GBA Mario Circuit.  This time its a port of GBA Donut Circuit from Del's Modpack for MK8DX, but its called Outback Circuit because its like a dry-ish environment kinda like Dry Dry Desert, but with grass.", 
+            "author": "BluGoku", 
+            "changelog": "n/a", 
+            "extracted": 63368, 
+            "version": "1.0", 
+            "filesize": 46283, 
+            "details": "n/a", 
+            "md5": "11325d7b6ef321d225177dc2b7d49b4c"
+        }, 
+        {
+            "category": "kart", 
+            "binary": "none", 
+            "updated": "14/07/2019", 
+            "name": "bgrbtires", 
+            "license": "CC", 
+            "title": "Gold Tire Ruby", 
+            "url": "https://gamebanana.com/skins/168534", 
+            "description": "A texture for the Gold Tires.", 
+            "author": "BluGoku", 
+            "changelog": "n/a", 
+            "extracted": 522, 
+            "version": "1.0", 
+            "filesize": 455, 
+            "details": "n/a", 
+            "md5": "63a16df325ec1657d1d6ed2228410329"
+        }, 
+        {
+            "category": "kart", 
+            "binary": "none", 
+            "updated": "14/07/2019", 
+            "name": "bgsatires", 
+            "license": "CC", 
+            "title": "Gold Tire Sapphire", 
+            "url": "https://gamebanana.com/skins/168534", 
+            "description": "A texture for the Gold Tires.", 
+            "author": "BluGoku", 
+            "changelog": "n/a", 
+            "extracted": 529, 
+            "version": "1.0", 
+            "filesize": 461, 
+            "details": "n/a", 
+            "md5": "f6798e0e0948af94b5ad7fa38c569887"
+        }, 
+        {
+            "category": "kart", 
+            "binary": "none", 
+            "updated": "14/07/2019", 
+            "name": "bgsitires", 
+            "license": "CC", 
+            "title": "Gold Tire Silver", 
+            "url": "https://gamebanana.com/skins/168534", 
+            "description": "A texture for the Gold Tires.", 
+            "author": "BluGoku, Ravage656", 
+            "changelog": "n/a", 
+            "extracted": 524, 
+            "version": "1.0", 
+            "filesize": 457, 
+            "details": "n/a", 
+            "md5": "581d4b3d987e09466c979998336bae91"
+        }, 
+        {
             "category": "game", 
             "binary": "none", 
             "updated": "07/07/2019", 
@@ -13,9 +149,9 @@
             "changelog": "n/a", 
             "extracted": 20728, 
             "version": "Epsilon", 
-            "filesize": 8976, 
+            "filesize": 8871, 
             "details": "n/a", 
-            "md5": "f839cb7e0cbf545826ad961104040d03"
+            "md5": "64bedd5d0e12fd882e0d50894a2e61bf"
         }, 
         {
             "category": "skin", 
@@ -30,9 +166,9 @@
             "changelog": "n/a", 
             "extracted": 2522, 
             "version": "1.0", 
-            "filesize": 2181, 
+            "filesize": 2174, 
             "details": "n/a", 
-            "md5": "e58e724cf62ee45c5d91f509529d58af"
+            "md5": "640f9a206e55434382fae2f8af286568"
         }, 
         {
             "category": "skin", 
@@ -47,9 +183,9 @@
             "changelog": "n/a", 
             "extracted": 1350, 
             "version": "1.5", 
-            "filesize": 1131, 
+            "filesize": 1123, 
             "details": "n/a", 
-            "md5": "506634947f4376eafc4634b4d188bd17"
+            "md5": "a5d1b36a3296ecd7f243cc250bcba5f7"
         }, 
         {
             "category": "skin", 
@@ -64,9 +200,9 @@
             "changelog": "n/a", 
             "extracted": 1668, 
             "version": "1.0", 
-            "filesize": 1454, 
+            "filesize": 1444, 
             "details": "n/a", 
-            "md5": "8010cd00cb294aa5fafe13948e393490"
+            "md5": "5e063178ed2754e64d6006337e2a62ad"
         }, 
         {
             "category": "skin", 
@@ -81,9 +217,9 @@
             "changelog": "n/a", 
             "extracted": 1627, 
             "version": "3.0", 
-            "filesize": 1451, 
+            "filesize": 1446, 
             "details": "n/a", 
-            "md5": "1f3a69524d36fda78e690fa292c1a99e"
+            "md5": "586d024eb01e7821d33b43472f3bf196"
         }, 
         {
             "category": "music", 
@@ -98,9 +234,9 @@
             "changelog": "n/a", 
             "extracted": 9703, 
             "version": "2.0", 
-            "filesize": 9326, 
+            "filesize": 9339, 
             "details": "n/a", 
-            "md5": "3067ca16ded3ebef8146149b4b036bf9"
+            "md5": "10aee4cf88355f4d7716b016f9e7d2c3"
         }
     ]
 }
