@@ -14,7 +14,7 @@
             "extracted": 1, 
             "version": "1.0", 
             "filesize": 1, 
-            "details": "Reboot app after Installedm", 
+            "details": "Reboot app after Installed.", 
             "md5": "8e58b3d5ee5c6ad7b5edab34dc49d70d"
         }, 
         {
@@ -28,7 +28,7 @@
             "description": "Download this if you have an American Wii U. Reboot once installed", 
             "author": "Lloyd Nabbit", 
             "changelog": "n/a", 
-            "extracted": 2, 
+            "extracted": 1, 
             "version": "1.0", 
             "filesize": 1, 
             "details": "Reboot app after Installed.", 
